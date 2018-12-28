@@ -2,6 +2,8 @@ from classifier import *
 from classifier import algorithms
 import argparse
 
+# 철수 영희 프로젝트
+
 if __name__ == "__main__":
     # Argument Setting
     parser = argparse.ArgumentParser()
